@@ -21,7 +21,7 @@ double mysqrt(double x)
   }
   return result;
 }
-}
+}z
 
 namespace mathfunctions {
 double sqrt(double x)
